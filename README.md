@@ -1,1 +1,1 @@
-<img src="https://github.com/beomjungil/beomjungil/raw/main/assets/beomjun.svg" width="60%" />
+<img src="https://github.com/beomjungil/beomjungil/raw/main/assets/header.svg" width="100%" margin="0"/>
