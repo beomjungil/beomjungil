@@ -52,7 +52,7 @@
 					overflow: hidden;
 				}
 
-				.slide > * {
+				.slide * {
 					animation: 1s slide-right 1s forwards;
 					transform:translateY(100%);
 				}
@@ -75,8 +75,7 @@
 						</div>
 						<div class="slide">
 							<p class="delay">
-								<span>Beomjun Gil</span>
-								<span style="margin-left: 12px">1999. 03. 19</span>
+								Beomjun Gilㅤㅤ1999. 03. 19
 							</p>
 						</div>
 					</div>
