@@ -56,6 +56,7 @@ TypeScript가 들으면 서운해 하겠지만, 최근 들어 Swift가 너무 �
 
 <details>
  <summary>SKILLS..?</summary>
+
  **개인적으로 스킬셋과 수준을 열거해 놓는 걸 선호하지 않습니다만... 가끔 필요할 때가 있더라구요.**
  
 | HARD         | React, TypeScript, Redux, Flutter, Bloc, Provider, Dart, Sketch, Figma, Build Design System, Notion ~누구보다도.~ , Communication, Confidence, Feedback |
@@ -68,9 +69,23 @@ TypeScript가 들으면 서운해 하겠지만, 최근 들어 Swift가 너무 �
 ###### 최근 저는요...
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
++ 사이드 프로젝트로 노트 테이킹 앱을 기획 중이에요. 
+# Roam Research, Workflowy, Notion, Craft, Ulysses, Bear 등 왠만한 노트 앱 들은 다 사용해봤지만
+# 모든게 만족스러운 툴은 없더라구요. 'Bullet Journal' 에 기초하여, 엄청난 앱을 만들거에요.
+# 혹시 노트 테이킹에 관심이 많다면 연락주세요!
+
+! 저는 View와 비즈니스 로직은 *철저히* 분리되어야 한다고 생각해요.
+# 그렇기에 RIBs가 정말 이상적이다고 생각하는데, 더 간단한 방법은 없을까요? 플랫폼이나 언어를 타지 않는 철학으로 정리된 게 없다면, 방법론을 정리해 보고 싶어요. 
+
+! Swift랑 Kotlin을 경험해보니 '강력한 DSL 문법'이 너무 마음에 들었어요. 흠... JS에서 Swift나 Kotlin 같이 단순하고 강력하고 읽기 좋은 DSL 문법을 만들 수 있을까요?
+# '|>' Operator를 잘 쓸 수 있다면..?
+
++ 요새 명상과 철학에 빠졌답니다! '생각의 헬스, 명상. 생각의 디자인 패턴 철학'(?)
+
++ Kotlin Multiplatform Mobile을 경험해보셨나요? 크로스 플랫폼과 네이티브의 훌륭한 타협점이라 생각해요. 저는 Apple Sillicon 지원이 안돼서 잠시 외면하고 있었는데, 이제 지원하다고 하더라구요!
+
+- 책 읽으려고 아이패드를 구매했는데, 책 읽으려고 Z Flip 3를 구매했는데, 책 읽으려고 Onyx Poke 3를 구매했어요. 어? 뭔가 이상한데?
+
+@@ 위 생각들에 관심이 있거나, 같이 나누고 싶은 이야기가 있다면 언제나 편하게 연락주세요!@@
+# https://m.me/katter.gil
 ```
