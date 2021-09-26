@@ -15,7 +15,7 @@
   ─
   <b>
     <a href="https://calendly.com/beomjungil/contact">
-      COFFEE WITH ME
+      COFFEE<sup>WITH ME</sup>
     </a>
   </b>
 </p>
